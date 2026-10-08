@@ -12,3 +12,5 @@ annual rate of interest and time period in years.
 ## Output
 
 Simple Interest = p * t * r
+
+2023 XYZ, Inc.
